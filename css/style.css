@@ -473,3 +473,21 @@ div.body ul li ul li:first-child {
 	float: right;
 	color: #988878;
 }
+
+#welcome-banner {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    text-align: center; /* Centered text */
+    padding: 20px 0; /* Padding for top and bottom */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+#welcome-banner h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 2em; /* Font size for heading */
+}
+
+#welcome-banner p {
+    margin: 5px 0 0; /* Adjust margin for paragraph */
+    font-size: 1.2em; /* Font size for paragraph */
+}
